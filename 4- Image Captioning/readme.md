@@ -11,6 +11,7 @@ Then set images folder, captions.txt inside a folder Flickr8k.
 
 **Test:**
 
+<img width="500" alt="test" src="https://user-images.githubusercontent.com/37718565/166522869-6d6ff626-76ad-41e7-8bc5-9993c343e670.png">
 
 
 
