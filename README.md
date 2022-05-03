@@ -8,4 +8,6 @@ In this repository, I included several interesting applications of NLP and their
 
 3- Sequence to Sequence Translation with LSTMs
 
+4- Image captioning with CNN and RNN
+
 
