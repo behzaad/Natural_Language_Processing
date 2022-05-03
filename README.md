@@ -6,4 +6,6 @@ In this repository, I included several interesting applications of NLP and their
 
 2- A simple retrival-based chatbot
 
+3- Sequence to Sequence Translation with LSTMs
+
 
