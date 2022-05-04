@@ -10,4 +10,6 @@ In this repository, I included several interesting applications of NLP and their
 
 4- Image captioning with CNN and RNN
 
+5- Sequence to Sequence Translation with Attention and LSTM
+
 
